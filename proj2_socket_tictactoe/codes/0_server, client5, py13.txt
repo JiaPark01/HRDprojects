@@ -1,0 +1,34 @@
+1. not turn
+2. no input
+3. not num
+4. big num
+
+5. vertical
+6. used
+
+7. restart end - yes
+8. horizontal middle	- extra vid
+9. diag159		- for pic, 537 as well
+10. +
+11. X			- extra vid (with 15978)
+12. tie			- extra vid
+
+13. game over & input	- result: "The game is over"
+14. restart end - no
+15. restart middle - no
+16. restart - other key
+17. restart middle - yes
+
+18. q middle		- extra vid
+19. both q
+
+-- q. while blinking
+
+20. q after winning completely (has error)
+
+21. q start
+
+22. q after the other turn fail input at begin
+
+vid: single line, diag-hori, tie, q middle, q start
+
